@@ -24,7 +24,7 @@ This project was developed using the following technologies:
 
 ## 🔥 Preview
 
-[![Deploy with Github Pages](https://vercel.com/button)]()
+[![Deploy with Github Pages](https://vercel.com/button)](https://arthurap52.github.io/Landing-Page-JavascriptCourse/)
 
 ## 💻 Project
 
